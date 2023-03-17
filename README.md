@@ -28,6 +28,12 @@ Construir a API para ser consultada pelo frontend e exibido na aplicação.
 - cd biblia
 - subir o frontend: `php artisan serve`: localhost:8000
 - subir o servidor db: `start` xampp / mysql : 3306
+- XAMPP MySQL
+  
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="biblia_xampp_mysql" title="#biblia_xampp_mysql" src="./.github/biblia_xampp_mysql.jpg">
+</p>  
+
 - conectar sqlyog: biblia_connection
 - criar db: biblia / utf8mb4 / utf8mb4_general_ci
 - insomnia para testar as rotas e métodos HTTP
@@ -48,5 +54,11 @@ Construir a API para ser consultada pelo frontend e exibido na aplicação.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="biblia_requisicoes_insomnia" title="#biblia_requisicoes_insomnia" src="./.github/biblia_requisicoes_insomnia.jpg">
 </p>    
+
+- Programar o projeto nos arquivos
+  - app/Http/Controllers/: Livro, Testamento, Versiculo
+  - app/Http/Models/: Livro, Testamento, Versiculo
+  - database/migrations/: create_testamentos, create_versiculos, create_livros
+  - routes/app/api.php: rotas para o CRUD : Livro, Testamento, Versiculo
 
 #### Detalhes 
