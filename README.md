@@ -12,12 +12,12 @@ Construir a API para ser consultada pelo frontend e exibido na aplicação.
 
 - CRUD + patch: post, get, put, delete e atualização parcial
 - Ambiente de desenvolvimento:
-  - XAMPP: apache, php, mysql:3306
+  - [XAMPP](https://www.apachefriends.org/): apache, php, mysql:3306
   - compose: gerenciar dependências do php
   - SQLyog: manipulação de BD
   - VSCode: IDE + Extensões
-  - brModelo: modelos do projeto
-  - Laravel: 8000
+  - [brModelo](https://www.brmodeloweb.com/lang/pt-br/index.html): modelos do projeto
+  - [Laravel](https://laravel.com/): 8000
 - Modelo de bd
   
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -68,3 +68,7 @@ Construir a API para ser consultada pelo frontend e exibido na aplicação.
 </p>     
 
 #### Detalhes 
+
+Projeto construído a partir da orientação do curso na [Udemy](https://www.udemy.com/course/api-rest-com-laravel-9-na-pratica/)
+
+Seguindo as requisições especificadas no documento para criar a [API Rest](https://candied-gooseberry-205.notion.site/Criando-API-REST-com-Laravel-9-606573f493e9494b9b7abc7ac1298828)
