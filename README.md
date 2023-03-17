@@ -72,3 +72,5 @@ Construir a API para ser consultada pelo frontend e exibido na aplicação.
 Projeto construído a partir da orientação do curso na [Udemy](https://www.udemy.com/course/api-rest-com-laravel-9-na-pratica/)
 
 Seguindo as requisições especificadas no documento para criar a [API Rest](https://candied-gooseberry-205.notion.site/Criando-API-REST-com-Laravel-9-606573f493e9494b9b7abc7ac1298828)
+
+Projeto objetivo [laundry backend para nuai technology](https://github.com/nuai-technology/laundry-backend)
