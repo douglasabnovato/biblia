@@ -20,7 +20,7 @@ Construir a API para ser consultada pelo frontend e exibido na aplicação.
 - Modelo de bd
   
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="biblia_db" title="#biblia_db" src="./.github/biblia_db.jpg">
+  <img alt="biblia_db" title="#biblia_db" src="./.github/biblia_db_model.jpg">
 </p>    
 
 #### Detalhes 
