@@ -61,4 +61,10 @@ Construir a API para ser consultada pelo frontend e exibido na aplicação.
   - database/migrations/: create_testamentos, create_versiculos, create_livros
   - routes/app/api.php: rotas para o CRUD : Livro, Testamento, Versiculo
 
+- na API conseguimos ver o db com os métodos CRUD funcionando certinho 
+  
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="biblia_sqlyog" title="#biblia_sqlyog" src="./.github/biblia_sqlyog.jpg">
+</p>     
+
 #### Detalhes 
